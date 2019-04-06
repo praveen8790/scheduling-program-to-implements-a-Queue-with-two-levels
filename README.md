@@ -1,5 +1,5 @@
 # scheduling-program-to-implements-a-Queue-with-two-levels
-praveen raj
+# praveen raj
 os assignment 
 Design a scheduling program to implements a Queue with two levels:
 Level 1 : Fixed priority preemptive Scheduling
